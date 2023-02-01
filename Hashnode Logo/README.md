@@ -1,5 +1,6 @@
 # Pure CSS Flower
-It is a Hashnode made using CSS and basic HTML
+It is a Hashnode made using CSS and basic HTML.
+It also rotates.
 
 # Tech Stack
 HTML, CSS
